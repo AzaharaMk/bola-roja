@@ -1,3 +1,29 @@
 #BlueJ package file
-#Thu May 18 11:10:32 CEST 2017
-project.charset=UTF-8
+objectbench.height=91
+objectbench.width=801
+package.divider.horizontal=0.600297176820208
+package.divider.vertical=0.8437001594896332
+package.editor.height=522
+package.editor.width=1218
+package.editor.x=-36
+package.editor.y=110
+package.frame.height=727
+package.frame.width=1382
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=bolaRoja
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=160
+target1.y=10
